@@ -1,0 +1,5 @@
+wordpress/*
+!wordpress/wp-config.php
+nginx/logs
+mariadb/lib
+mariadb/log
